@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kateryna Vashchenko
-- 👀 I’m interested in sales&analysis
+- 👀 I’m interested in Sales&Analytics
 - 🌱 I’m currently learning about analitics tools and Python
 - 📫 How to reach me: LinkedIn
 
